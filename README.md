@@ -2,4 +2,5 @@
 
 ## [Codility](https://www.codility.com/)
 
-* BinaryGap
+* BinaryGap;
+* OddOccurrencesInArray;
