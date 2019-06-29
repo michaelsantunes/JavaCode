@@ -1,7 +1,5 @@
 # Java Coding
 
-* [Codility](https://www.codility.com/)
-
-## Codility
+## [Codility](https://www.codility.com/)
 
 * BinaryGap
