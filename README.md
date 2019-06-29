@@ -1,3 +1,5 @@
-# Java Code
+# Java Coding
 
-Some challenges from interview websites.
+## [Codility](https://www.codility.com/)
+
+* BinaryGap
