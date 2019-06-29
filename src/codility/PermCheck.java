@@ -1,39 +1,82 @@
 package codility;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class PermCheck {
 
-    public static int solution(int[]arr) {
-        if ( arr.length == 0 || ( arr.length == 1 && arr[0] > 1) )
-            return 0;
-        Arrays.sort(arr);
-        for ( int i = 0; i < arr.length; i++ ) {
-            int v1 = arr[i];
-            if ( (i + 1) < arr.length ) {
-                int sum = v1 + 1;
-                int v2  = arr[i+1];
-                if ( v1 == v2 || sum < v2) {
-                    return 0;
-                }
-            }
+/*
+
+    A non-empty array A consisting of N integers is given.
+
+    A permutation is a sequence containing each element from 1 to N once, and only once.
+
+    For example, array A such that:
+
+    A[0] = 4
+    A[1] = 1
+    A[2] = 3
+    A[3] = 2
+    is a permutation, but array A such that:
+
+    A[0] = 4
+    A[1] = 1
+    A[2] = 3
+    is not a permutation, because value 2 is missing.
+
+    The goal is to check whether array A is a permutation.
+
+    Write a function:
+
+    class Solution { public int solution(int[] A); }
+
+    that, given an array A, returns 1 if array A is a permutation and 0 if it is not.
+
+    For example, given array A such that:
+
+    A[0] = 4
+    A[1] = 1
+    A[2] = 3
+    A[3] = 2
+    the function should return 1.
+
+    Given array A such that:
+
+    A[0] = 4
+    A[1] = 1
+    A[2] = 3
+    the function should return 0.
+
+    Write an efficient algorithm for the following assumptions:
+
+    N is an integer within the range [1..100,000];
+    each element of array A is an integer within the range [1..1,000,000,000].*/
+
+
+    public static int solution(int[] A) {
+        Arrays.sort(A);
+        int index = 0;
+        int count = 1;
+        while ( A.length > index ) {
+            int value = A[index];
+            if ( value != count)
+                return 0;
+            index++;
+            count++;
         }
         return 1;
     }
-
-
     public static void main(String[] args) {
-        int[] arr1 = {7,4,5,6,2,3,3};
-        int[] arr2 = {2,3,1,5};
-        int[] arr3 = {};
-        int[] arr4 = {3,2,4,5,6,7,8};
-        int[] arr5 = {2};
-        int[] arr6 = {1};
-        System.out.println(solution(arr1));
-        System.out.println(solution(arr2));
-        System.out.println(solution(arr3));
-        System.out.println(solution(arr4));
-        System.out.println(solution(arr5));
-        System.out.println(solution(arr6));
+        Set<Integer> list = new HashSet<>();
+        for (int i = 0; i < 1; i++) {
+            list.add(new Random().nextInt(40));
+        }
+
+        int[] A = new int[list.size()];
+        int index = 0;
+        for (Integer value : list) {
+            A[index] = value;
+            index++;
+        }
+        System.out.println(solution(A));
     }
-}
+ }
