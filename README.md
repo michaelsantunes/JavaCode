@@ -1,3 +1,9 @@
 # Java Code
 
-Codility
+From online code testing
+
+* [Codility](https://www.codility.com/)
+
+## Codility
+
+* BinaryGap
