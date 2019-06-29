@@ -1,6 +1,6 @@
-# Java Code
+# Java Coding
 
-From online code testing
+Online code testing:
 
 * [Codility](https://www.codility.com/)
 
