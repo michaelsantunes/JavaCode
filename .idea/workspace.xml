@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07335ae9-b323-44fe-9837-b7d920d96668" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/codility/OddOccurrencesInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codility/OddOccurrencesInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codility/CyclicRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codility/CyclicRotation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codility/OddOccurrencesInArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-6">
               <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codility/CyclicRotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -68,6 +77,7 @@
         <option value="$PROJECT_DIR$/src/codility/PassingCars.java" />
         <option value="$PROJECT_DIR$/src/codility/BinaryGap.java" />
         <option value="$PROJECT_DIR$/src/codility/OddOccurrencesInArray.java" />
+        <option value="$PROJECT_DIR$/src/codility/CyclicRotation.java" />
       </list>
     </option>
   </component>
@@ -147,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OddOccurrencesInArray">
+  <component name="RunManager" selected="Application.CyclicRotation">
     <configuration name="BinaryGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codility.BinaryGap" />
       <module name="JavaCode" />
@@ -161,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HowMany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.HowMany" />
+    <configuration name="CyclicRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.CyclicRotation" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
+          <option name="PATTERN" value="codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CyclicRotation" />
         <item itemvalue="Application.OddOccurrencesInArray" />
         <item itemvalue="Application.BinaryGap" />
         <item itemvalue="Application.PassingCars" />
         <item itemvalue="Application.TapeEquilibrium" />
-        <item itemvalue="Application.HowMany" />
       </list>
     </recent_temporary>
   </component>
@@ -330,6 +340,24 @@
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codility/CyclicRotation.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codility/CyclicRotation.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codility/CyclicRotation.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -408,13 +436,6 @@
             <element signature="e#119#120#0" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codility/CyclicRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -519,6 +540,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codility/CyclicRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
