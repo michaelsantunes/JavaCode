@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07335ae9-b323-44fe-9837-b7d920d96668" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/codility/PassingCars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codility/TapeEquilibrium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codility/TapeEquilibrium.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,12 +19,12 @@
     <favorites_list name="JavaCode" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/codility/TapeEquilibrium.java">
+        <entry file="file://$PROJECT_DIR$/src/codility/PassingCars.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="476">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,10 +69,11 @@
         <option value="$PROJECT_DIR$/src/hackerrank/DestinationTogether.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/HowMany.java" />
         <option value="$PROJECT_DIR$/src/codility/TapeEquilibrium.java" />
+        <option value="$PROJECT_DIR$/src/codility/PassingCars.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="974" />
@@ -86,6 +87,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,13 +104,30 @@
               <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="coberbyte" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="codility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -136,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TapeEquilibrium">
+  <component name="RunManager" selected="Application.PassingCars">
     <configuration name="CompareTheTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrank.CompareTheTriplets" />
       <module name="JavaCode" />
@@ -176,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.SimpleArraySum" />
+    <configuration name="PassingCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.PassingCars" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
+          <option name="PATTERN" value="codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PassingCars" />
         <item itemvalue="Application.TapeEquilibrium" />
         <item itemvalue="Application.HowMany" />
         <item itemvalue="Application.DestinationTogether" />
         <item itemvalue="Application.CompareTheTriplets" />
-        <item itemvalue="Application.SimpleArraySum" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +248,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.30277187" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.30597016" />
       <window_info id="Structure" order="1" sideWeight="0.50083196" side_tool="true" weight="0.2771855" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -238,15 +257,15 @@
       <window_info id="Favorites" order="6" sideWeight="0.5005417" side_tool="true" weight="0.2771855" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.43987" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3488624" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.4864572" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.3488624" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.50053304" side_tool="true" weight="0.43987" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.5010661" side_tool="true" weight="0.43987" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
@@ -299,6 +318,18 @@
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codility/PassingCars.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codility/PassingCars.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -314,16 +345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-500">
           <caret line="387" column="14" selection-start-line="387" selection-start-column="14" selection-end-line="387" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/others/OrderList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -387,13 +408,6 @@
             <element signature="e#119#120#0" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coberbyte/LongestWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -466,8 +480,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codility/TapeEquilibrium.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="255">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/LargestDifferenceBetweenNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coberbyte/LongestWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/others/OrderList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codility/PassingCars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
