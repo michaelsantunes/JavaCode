@@ -4,3 +4,4 @@
 
 * BinaryGap;
 * OddOccurrencesInArray;
+* CyclicRotation;
