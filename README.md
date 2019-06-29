@@ -5,3 +5,4 @@
 * BinaryGap;
 * OddOccurrencesInArray;
 * CyclicRotation;
+* TapeEquilibrium;
