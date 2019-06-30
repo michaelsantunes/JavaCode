@@ -1,4 +1,4 @@
-# Java Coding
+# Java Code
 
 ## [Codility](https://www.codility.com/)
 
@@ -7,4 +7,5 @@
 * CyclicRotation;
 * TapeEquilibrium;
 * PermCheck;
-* FrogRiverOne.
+* FrogRiverOne;
+* MaxCounters.
