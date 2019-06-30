@@ -6,4 +6,5 @@
 * OddOccurrencesInArray;
 * CyclicRotation;
 * TapeEquilibrium;
-* PermCheck.
+* PermCheck;
+* FrogRiverOne.
