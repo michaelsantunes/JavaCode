@@ -14,3 +14,4 @@
 ## [Coderbyte](https://www.coderbyte.com/)
 
 * LongestWord;
+* FirstFactorial
