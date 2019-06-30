@@ -1,4 +1,4 @@
-# Java Coding
+# Java Code
 
 ## [Codility](https://www.codility.com/)
 
