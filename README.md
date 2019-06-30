@@ -8,4 +8,9 @@
 * TapeEquilibrium;
 * PermCheck;
 * FrogRiverOne;
-* MaxCounters.
+* MaxCounters;
+* MissingInteger.
+
+## [Coderbyte](https://www.coderbyte.com/)
+
+* LongestWord;
