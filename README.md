@@ -7,4 +7,5 @@
 * CyclicRotation;
 * TapeEquilibrium;
 * PermCheck;
-* FrogRiverOne.
+* FrogRiverOne;
+* MaxCounters.
