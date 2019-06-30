@@ -6,8 +6,7 @@ import java.util.Set;
 
 public class MissingInteger {
 
-    /*
-
+/*
     Write a function:
 
     class Solution { public int solution(int[] A); }
@@ -25,7 +24,7 @@ public class MissingInteger {
     N is an integer within the range [1..100,000];
     each element of array A is an integer within the range [−1,000,000..1,000,000].
 
-    */
+*/
 
     public static int solution(int[] A ) {
         Arrays.sort(A);
