@@ -10,7 +10,8 @@
 * FrogRiverOne;
 * MaxCounters;
 * MissingInteger;
-* PassingCars.
+* PassingCars;
+* Distinct.
 
 ## [Coderbyte](https://www.coderbyte.com/)
 
