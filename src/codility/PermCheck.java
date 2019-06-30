@@ -5,7 +5,6 @@ import java.util.*;
 public class PermCheck {
 
 /*
-
     A non-empty array A consisting of N integers is given.
 
     A permutation is a sequence containing each element from 1 to N once, and only once.
@@ -49,7 +48,8 @@ public class PermCheck {
     Write an efficient algorithm for the following assumptions:
 
     N is an integer within the range [1..100,000];
-    each element of array A is an integer within the range [1..1,000,000,000].*/
+    each element of array A is an integer within the range [1..1,000,000,000].
+*/
 
 
     public static int solution(int[] A) {

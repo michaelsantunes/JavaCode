@@ -49,7 +49,8 @@ public class MaxCounters {
 
    if A[K] = X, such that 1 ≤ X ≤ N, then operation K is increase(X),
    if A[K] = N + 1 then operation K is max counter.
-    */
+*/
+
     public static int[] solution(int N, int[] A) {
         int[] values = new int[N];
         int[] aux = new int[N];
