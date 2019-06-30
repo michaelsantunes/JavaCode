@@ -8,4 +8,5 @@
 * TapeEquilibrium;
 * PermCheck;
 * FrogRiverOne;
-* MaxCounters.
+* MaxCounters;
+* MissingInteger.
