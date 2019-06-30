@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07335ae9-b323-44fe-9837-b7d920d96668" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codility/MissingInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coberbyte/LongestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coberbyte/LongestWord.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,13 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/codility/MissingInteger.java">
+        <entry file="file://$PROJECT_DIR$/src/coberbyte/LongestWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -54,7 +50,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/codility/NobioChallange.java" />
         <option value="$PROJECT_DIR$/src/codility/NobioChallenge.java" />
-        <option value="$PROJECT_DIR$/src/coberbyte/LongestWord.java" />
         <option value="$PROJECT_DIR$/src/others/OrderList.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/FindTheNumber.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/OddNumbers.java" />
@@ -77,6 +72,7 @@
         <option value="$PROJECT_DIR$/src/codility/FrogRiverOne.java" />
         <option value="$PROJECT_DIR$/src/codility/MaxCounters.java" />
         <option value="$PROJECT_DIR$/src/codility/MissingInteger.java" />
+        <option value="$PROJECT_DIR$/src/coberbyte/LongestWord.java" />
       </list>
     </option>
   </component>
@@ -118,12 +114,6 @@
               <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="codility" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="others" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -156,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MissingInteger">
+  <component name="RunManager" selected="Application.LongestWord">
     <configuration name="FrogJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codility.FrogJump" />
       <module name="JavaCode" />
@@ -176,6 +166,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="codility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coberbyte.LongestWord" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coberbyte.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,26 +212,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.PermCheck" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestWord" />
         <item itemvalue="Application.MissingInteger" />
         <item itemvalue="Application.MaxCounters" />
         <item itemvalue="Application.FrogRiverOne" />
         <item itemvalue="Application.FrogJump" />
-        <item itemvalue="Application.PermCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -486,13 +476,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coberbyte/LongestWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/others/OrderList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -598,11 +581,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codility/MissingInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        <state relative-caret-position="-397">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coberbyte/LongestWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
