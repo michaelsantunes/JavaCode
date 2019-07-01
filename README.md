@@ -11,7 +11,8 @@
 * MaxCounters;
 * MissingInteger;
 * PassingCars;
-* Distinct.
+* Distinct;
+* Triangle.
 
 ## [Coderbyte](https://www.coderbyte.com/)
 
