@@ -17,6 +17,7 @@
 ## [HackerRank](https://www.hackerrank.com/)
 
 * CountingValleys
+* Staircase
 
 ## [Coderbyte](https://www.coderbyte.com/)
 
