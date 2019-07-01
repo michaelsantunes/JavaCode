@@ -18,7 +18,8 @@
 
 * CountingValleys;
 * Staircase;
-* MinMaxSum.
+* MinMaxSum;
+* JumpingOnTheClouds.
 
 ## [Coderbyte](https://www.coderbyte.com/)
 
