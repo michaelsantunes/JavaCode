@@ -16,8 +16,9 @@
 
 ## [HackerRank](https://www.hackerrank.com/)
 
-* CountingValleys
-* Staircase
+* CountingValleys;
+* Staircase;
+* MinMaxSum.
 
 ## [Coderbyte](https://www.coderbyte.com/)
 
