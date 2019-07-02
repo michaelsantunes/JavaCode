@@ -14,7 +14,16 @@
 * Distinct;
 * Triangle.
 
+## [HackerRank](https://www.hackerrank.com/)
+
+* CountingValleys;
+* Staircase;
+* MinMaxSum;
+* JumpingOnTheClouds.
+
 ## [Coderbyte](https://www.coderbyte.com/)
 
 * LongestWord;
 * FirstFactorial
+
+
