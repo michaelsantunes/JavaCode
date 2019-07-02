@@ -4,26 +4,22 @@ import java.util.*;
 
 public class RepeatedString {
 
+
     static long repeatedString(String s, long n) {
+        long count = 0L;
+        char find  = 'a';
 
-        if ( s.length() == 1 )
-            return n;
-        long count = 0;
-        for ( int i = 0; i < s.length(); i++) {
-            if ( String.valueOf(s.charAt(i)).equalsIgnoreCase("a") ) {
+        String[] array = s.split("");
+        count = Arrays.stream(array).filter(c-> c.equals("a")).count();
+
+        count = count * (n / (long) s.length());
+
+        long rest = n % (long) s.length();
+
+        for ( int x = 0; x < rest; x++ ) {
+            if ( s.charAt(x) == find) {
                 count++;
             }
-        }
-
-        int index = 0;
-        for ( int x = s.length(); x < n; x++) {
-            if ( String.valueOf(s.charAt(index)).equalsIgnoreCase("a") ) {
-                count++;
-            }
-            index++;
-            if ( index >= s.length() )
-                index = 0;
-
         }
 
         return count;
@@ -31,10 +27,10 @@ public class RepeatedString {
 
 
     public static void main(String[] args) {
-//        String s = "babbaabbabaababaaabbbbbbbababbbabbbababaabbbbaaaaabbaababaaabaabbabababaabaabbbababaabbabbbababbaabb";
-//        long n = 860622337747L;
-        String s = "aba";
-        long n = 10;
+        String s = "xaaaa";
+        long n = 970770L;
+        //String s = "aba";
+        //long n = 10;
         System.out.println(repeatedString(s,n));
 
          int x = 0;

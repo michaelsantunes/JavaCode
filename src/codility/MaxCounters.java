@@ -52,29 +52,21 @@ public class MaxCounters {
 */
 
     public static int[] solution(int N, int[] A) {
-        int[] values = new int[N];
-        int[] aux = new int[N];
-        int max = 0;
-        for ( int K = 0; K < A.length; K++) {
-            if ( A[K] > 0 ) {
-                if ( A[K] == N + 1 ) {
-                    int maxValue = max;
-                    for ( int j = 0; j < values.length; j++) {
-                        values[j] = maxValue;
-                    }
-                } else {
-                    values[A[K] - 1] = values[A[K] - 1] + 1;
-                    int v = values[A[K]-1];
-                    if ( v > max ) {
-                        max = v;
-                    }
-                }
+        int[] counters = new int[N];
+        int maxCounter = 0;
+        for ( int i = 0; i < A.length; i++ ) {
+            int X = A[i];
+            if ( X <= N ) {
+               counters[X-1] = counters[X-1] + 1;
+               if ( counters[X-1] > maxCounter ) {
+                   maxCounter = counters[X-1];
+               }
+            } else {
+                Arrays.fill(counters,maxCounter);
             }
         }
-
-        return values;
+        return counters;
     }
-
 
     public static void timeComplexity() {
         int max = 1000000;
@@ -133,13 +125,15 @@ public class MaxCounters {
     public static void main(String[] args) {
         int[] A = {3,4,4,6,1,4,4};
         int N = 5;
-
         int[] R = solution(N,A);
         for (int i = 0; i < R.length; i++ ) {
             System.out.printf(" " + R[i]);
         }
-        System.out.println();
-        timeComplexity();
+
+
+
+
+
 
     }
 

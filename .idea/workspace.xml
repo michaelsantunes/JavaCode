@@ -2,32 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07335ae9-b323-44fe-9837-b7d920d96668" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/DiagonalDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/JavaStaticInitializerBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hackerrank/PlusMinus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/ArrayLeftRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hackerrank/HourglassSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/META-INF/JavaCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/coberbyte/FirstFactorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/coberbyte/FirstFactorial.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaCode/coberbyte/LongestWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/coberbyte/LongestWord.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/BinaryGap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/BinaryGap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/CyclicRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/CyclicRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/FrogJump.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/FrogJump.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/OddOccurrencesInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/OddOccurrencesInArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/PermCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/PermCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/PermMissingElem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/PermMissingElem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/TapeEquilibrium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/TapeEquilibrium.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/CompareTheTriplets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/CompareTheTriplets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/DestinationTogether.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/DestinationTogether.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/FindTheNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/FindTheNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/HowMany.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/OddNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/OddNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/SimpleArraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/SimpleArraySum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/SockMerchant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/SockMerchant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/SolveMeFirst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/SolveMeFirst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/TwoStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/TwoStrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/others/LargestDifferenceBetweenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/others/LargestDifferenceBetweenNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/others/OrderList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/others/OrderList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codility/TapeEquilibrium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codility/TapeEquilibrium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/Distinct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/Distinct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/FrogRiverOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/FrogRiverOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/GenomicRangeQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/GenomicRangeQuery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/MaxCounters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/MaxCounters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/MissingInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/MissingInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/Niobium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/Niobium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/PassingCars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/PassingCars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/TapeEquilibrium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/codility/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/codility/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/CountingValleys.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/CountingValleys.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/JumpingOnTheClouds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/JumpingOnTheClouds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/MinMaxSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/MinMaxSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/PlusMinus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/PlusMinus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/RepeatedString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/RepeatedString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/Staircase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/hackerrank/Staircase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codility/MaxCounters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codility/MaxCounters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hackerrank/RepeatedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hackerrank/RepeatedString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,20 +42,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hackerrank/PlusMinus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hackerrank/JavaStaticInitializerBlock.java">
+        <entry file="file://$PROJECT_DIR$/src/codility/MaxCounters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+            <state relative-caret-position="3">
+              <caret line="53" selection-start-line="53" selection-end-line="68" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -101,6 +90,10 @@
         <option value="$PROJECT_DIR$/src/codility/TapeEquilibrium.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/DiagonalDifference.java" />
         <option value="$PROJECT_DIR$/src/hackerrank/PlusMinus.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/RepeatedString.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/HourglassSum.java" />
+        <option value="$PROJECT_DIR$/src/hackerrank/ArrayLeftRotation.java" />
+        <option value="$PROJECT_DIR$/src/codility/MaxCounters.java" />
       </list>
     </option>
   </component>
@@ -118,7 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,19 +128,13 @@
               <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="coberbyte" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="codility" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,20 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PlusMinus">
-    <configuration name="DestinationTogether" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.DestinationTogether" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerrank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MaxCounters">
     <configuration name="DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hackerrank.DiagonalDifference" />
       <module name="JavaCode" />
@@ -201,12 +175,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HowMany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hackerrank.HowMany" />
+    <configuration name="HourglassSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.HourglassSum" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="hackerrank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxCounters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.MaxCounters" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TapeEquilibrium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.TapeEquilibrium" />
+    <configuration name="RepeatedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hackerrank.RepeatedString" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codility.*" />
+          <option name="PATTERN" value="hackerrank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxCounters" />
+        <item itemvalue="Application.HourglassSum" />
+        <item itemvalue="Application.RepeatedString" />
         <item itemvalue="Application.PlusMinus" />
         <item itemvalue="Application.DiagonalDifference" />
-        <item itemvalue="Application.TapeEquilibrium" />
-        <item itemvalue="Application.HowMany" />
-        <item itemvalue="Application.DestinationTogether" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +253,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.76296294" visible="true" weight="0.30786687" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.76296294" visible="true" weight="0.24432677" />
       <window_info id="Structure" order="1" sideWeight="0.23703703" side_tool="true" weight="0.30862328" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -275,15 +262,15 @@
       <window_info id="Favorites" order="6" sideWeight="0.5005417" side_tool="true" weight="0.2771855" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.08346972" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977307" weight="0.40752864" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.32242227" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977307" weight="0.3207856" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.50226927" side_tool="true" weight="0.40752864" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.50226927" side_tool="true" weight="0.32242227" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -348,8 +335,19 @@
           <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codility/MaxCounters.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="arr[1]" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaCode$Booking3.ic" NAME="Booking3 Coverage Results" MODIFIED="1560538111961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -433,20 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codility/FrogJump.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codility/OddOccurrencesInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codility/PermCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-187">
@@ -486,13 +470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codility/BinaryGap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codility/CyclicRotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -500,13 +477,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codility/TapeEquilibrium.java">
+    <entry file="file://$PROJECT_DIR$/src/codility/TapeEquilibrium.java" />
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/PlusMinus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/JavaStaticInitializerBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -520,17 +502,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrank/PlusMinus.java">
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/JumpingOnTheClouds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hackerrank/JavaStaticInitializerBlock.java">
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/MinMaxSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codility/FrogRiverOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-794">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codility/BinaryGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codility/FrogJump.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codility/GenomicRangeQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codility/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codility/OddOccurrencesInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/HourglassSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/RepeatedString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hackerrank/ArrayLeftRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="2879" column="23" selection-start-line="2879" selection-start-column="23" selection-end-line="2879" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codility/MaxCounters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="53" selection-start-line="53" selection-end-line="68" selection-end-column="5" />
         </state>
       </provider>
     </entry>
