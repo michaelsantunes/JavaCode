@@ -19,6 +19,7 @@ public class CountingValleys {
                 valley++;
             }
         }
+
         return valley;
 
     }
